@@ -1,5 +1,5 @@
 /*
-IZP keyfilter
+keyfilter
 Author: Martin Mendl x247581@stud.fit.vut.cz
 Date: 10.10.2023
 note:
