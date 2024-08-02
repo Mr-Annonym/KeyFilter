@@ -8,7 +8,7 @@ Imagine a virtual keyboard in a car's dashboard navigation system. The navigatio
 
 ## Usage
 
-The program should be implemented in a single source file named `keyfilter.c`. Input data will be read from standard input (stdin), and output will be printed to standard output (stdout).
+Input data will be read from standard input (stdin), and output will be printed to standard output (stdout).
 
 ### Compilation and Execution
 
@@ -28,7 +28,7 @@ If the program is run without arguments, it takes the entered address as an empt
 
 ## Input Address Database
 
-The address database consists of text data where each line represents one address. Each line contains a maximum of 100 characters. The list of addresses is unordered. All data is case insensitive. The program must support at least 42 addresses.
+The address database consists of text data where each line represents one address. Each line contains a maximum of 100 characters.
 
 ## Program Output
 
