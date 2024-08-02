@@ -1,5 +1,3 @@
-# Project 1 - Text Processing
-
 # KeyFilter
 
 KeyFilter is a program that emulates the algorithm for enabling and disabling keys on a virtual keyboard in a car's dashboard navigation system. The navigation system has a database of addresses and expects input from the user via the virtual keyboard. The goal of KeyFilter is to make the input easier for the user by only allowing selected keys on the keyboard at any given moment - those keys that, when used, would still lead to a known address.
